@@ -1,7 +1,7 @@
 # CGU - ABN Rescue
 
 
-(https://github.com/DallasGale/ABN-Rescue/blob/master/_screenshots/landing-page.jpg)
+[https://github.com/DallasGale/ABN-Rescue/blob/master/_screenshots/landing-page.jpg]
 
 ## Build tool
 
