@@ -1,0 +1,27 @@
+.typography {
+  &__link {
+    &--external {
+      border-bottom: 2px solid $colorNavy;
+      color: inherit;
+      text-decoration: none;
+
+      &.white {
+        border-bottom-color: $colorWhite;
+      }
+    }
+  }
+}
+
+.Typist .Cursor {
+  display: inline-block;
+
+  &--blinking {
+    opacity: 1;
+    animation: blink 0.7s linear infinite;
+    @keyframes blink {
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+  }
+}

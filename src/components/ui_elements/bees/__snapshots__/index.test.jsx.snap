@@ -1,0 +1,240 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Bees /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="styled__StyledContainer-drvhsy-0 jELqaM"
+      >
+        <div
+          class="Scene"
+          id="sceneBees"
+        >
+          <div
+            class="bee1 "
+          >
+            <div
+              class="flight-path--x"
+            >
+              <div
+                class="flight-path--y"
+              >
+                <div
+                  class="bee"
+                  id="bee1"
+                >
+                  <div
+                    class="bee__body"
+                  >
+                    <svg
+                      height="572.801px"
+                      id="Capa_1"
+                      style="enable-background: new 0 0 572.8 572.801;"
+                      version="1.1"
+                      viewBox="0 0 572.8 572.801"
+                      width="572.8px"
+                      x="0px"
+                      xmlns="http://www.w3.org/2000/svg"
+                      y="0px"
+                    >
+                      <defs>
+                        <clippath
+                          id="clip-path"
+                        >
+                          <path
+                            d="M520.25,353.6c0,125-100.5,219.201-233.8,219.201S52.55,478.6,52.55,353.6c0-115.3,164.7-301.5,197.7-337.7   c9.3-10.2,22.4-15.9,36.2-15.9s26.9,5.8,36.2,15.9C355.55,52.1,520.25,238.4,520.25,353.6z"
+                          />
+                        </clippath>
+                      </defs>
+                      <g>
+                        <path
+                          d="M520.25,353.6c0,125-100.5,219.201-233.8,219.201S52.55,478.6,52.55,353.6c0-115.3,164.7-301.5,197.7-337.7   c9.3-10.2,22.4-15.9,36.2-15.9s26.9,5.8,36.2,15.9C355.55,52.1,520.25,238.4,520.25,353.6z"
+                        />
+                        <g
+                          class="bees__StyledCls2-sc-1020m89-0 dQWoiI"
+                        >
+                          <rect
+                            class="cls-3"
+                            height="60"
+                            width="663.07"
+                            x="14.99"
+                            y="269.04"
+                          />
+                          <rect
+                            class="cls-3"
+                            height="60"
+                            width="663.07"
+                            x="24.99"
+                            y="146.44"
+                          />
+                        </g>
+                      </g>
+                    </svg>
+                  </div>
+                  <div
+                    class="bee__wings"
+                  >
+                    <div
+                      class="bee__wing--animation"
+                    >
+                      <div
+                        class="bee__wing-1"
+                      />
+                      <div
+                        class="bee__wing-2"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="styled__StyledContainer-drvhsy-0 jELqaM"
+    >
+      <div
+        class="Scene"
+        id="sceneBees"
+      >
+        <div
+          class="bee1 "
+        >
+          <div
+            class="flight-path--x"
+          >
+            <div
+              class="flight-path--y"
+            >
+              <div
+                class="bee"
+                id="bee1"
+              >
+                <div
+                  class="bee__body"
+                >
+                  <svg
+                    height="572.801px"
+                    id="Capa_1"
+                    style="enable-background: new 0 0 572.8 572.801;"
+                    version="1.1"
+                    viewBox="0 0 572.8 572.801"
+                    width="572.8px"
+                    x="0px"
+                    xmlns="http://www.w3.org/2000/svg"
+                    y="0px"
+                  >
+                    <defs>
+                      <clippath
+                        id="clip-path"
+                      >
+                        <path
+                          d="M520.25,353.6c0,125-100.5,219.201-233.8,219.201S52.55,478.6,52.55,353.6c0-115.3,164.7-301.5,197.7-337.7   c9.3-10.2,22.4-15.9,36.2-15.9s26.9,5.8,36.2,15.9C355.55,52.1,520.25,238.4,520.25,353.6z"
+                        />
+                      </clippath>
+                    </defs>
+                    <g>
+                      <path
+                        d="M520.25,353.6c0,125-100.5,219.201-233.8,219.201S52.55,478.6,52.55,353.6c0-115.3,164.7-301.5,197.7-337.7   c9.3-10.2,22.4-15.9,36.2-15.9s26.9,5.8,36.2,15.9C355.55,52.1,520.25,238.4,520.25,353.6z"
+                      />
+                      <g
+                        class="bees__StyledCls2-sc-1020m89-0 dQWoiI"
+                      >
+                        <rect
+                          class="cls-3"
+                          height="60"
+                          width="663.07"
+                          x="14.99"
+                          y="269.04"
+                        />
+                        <rect
+                          class="cls-3"
+                          height="60"
+                          width="663.07"
+                          x="24.99"
+                          y="146.44"
+                        />
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="bee__wings"
+                >
+                  <div
+                    class="bee__wing--animation"
+                  >
+                    <div
+                      class="bee__wing-1"
+                    />
+                    <div
+                      class="bee__wing-2"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

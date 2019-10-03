@@ -1,0 +1,1104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LastYearsAbns /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="  styled__StyledSpeechBubbleBox-sc-1sxgqj2-0 crkeME"
+        >
+          <div
+            class="styled__StyledCorner-sc-1sxgqj2-1 iztnqd"
+          />
+          <h2
+            aria-hidden="true"
+            class="disappear typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+          >
+            <div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  L
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  a
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  s
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  t
+                </div>
+                 
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  y
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  e
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  a
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  r
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                   
+                </div>
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  class="lowercase-s"
+                  style="display: inline-block; opacity: 0;"
+                >
+                  A
+                </div>
+                <div
+                  class="lowercase-s"
+                  style="display: inline-block; opacity: 0;"
+                >
+                  B
+                </div>
+                <div
+                  class="lowercase-s"
+                  style="display: inline-block; opacity: 0;"
+                >
+                  N
+                </div>
+                <div
+                  class="lowercase-s"
+                  style="display: inline-block; opacity: 0;"
+                >
+                  s
+                </div>
+                <div
+                  class="lowercase-s"
+                  style="display: inline-block; opacity: 0;"
+                >
+                   
+                </div>
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  d
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  i
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  d
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  n
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  '
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  t
+                </div>
+                 
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  g
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  e
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  t
+                </div>
+                 
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  o
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  f
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  f
+                </div>
+                 
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  t
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  h
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  e
+                </div>
+                 
+              </div>
+              <div
+                style="display: inline-block;"
+              >
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  g
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  r
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  o
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  u
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  n
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  d
+                </div>
+                <div
+                  style="display: inline-block; opacity: 0;"
+                >
+                  .
+                </div>
+              </div>
+            </div>
+          </h2>
+        </div>
+      </div>
+      <div
+        class="styled__StyledMessageWrapper-sc-1sxgqj2-3 bFuGSO"
+      >
+        <h2
+          aria-hidden="true"
+          class="disappear disappear-slower typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+          style="z-index: 1;"
+        >
+          <div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                T
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                h
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                a
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                '
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                s
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                4
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                8
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                e
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                v
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                e
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                r
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                y
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                h
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                u
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                r
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                .
+              </div>
+            </div>
+          </div>
+        </h2>
+      </div>
+      <div
+        class="styled__StyledMessageWrapper-sc-1sxgqj2-3 bFuGSO"
+      >
+        <h2
+          aria-hidden="true"
+          class="disappear disappear-slower typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+          style="z-index: 1;"
+        >
+          <div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                I
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                '
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                s
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                a
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                l
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                f
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                l
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                s
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                a
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                m
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                b
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                i
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                i
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                n
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                .
+              </div>
+            </div>
+          </div>
+        </h2>
+      </div>
+      <h2
+        class="ally__screen-reader-only-text"
+      >
+         Last Year 424,144 ABN's didn't get off the ground. That's 48 every hour. It's a lot of lost ambition.
+      </h2>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="  styled__StyledSpeechBubbleBox-sc-1sxgqj2-0 crkeME"
+      >
+        <div
+          class="styled__StyledCorner-sc-1sxgqj2-1 iztnqd"
+        />
+        <h2
+          aria-hidden="true"
+          class="disappear typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+        >
+          <div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                L
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                a
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                s
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                y
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                e
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                a
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                r
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                 
+              </div>
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                class="lowercase-s"
+                style="display: inline-block; opacity: 0;"
+              >
+                A
+              </div>
+              <div
+                class="lowercase-s"
+                style="display: inline-block; opacity: 0;"
+              >
+                B
+              </div>
+              <div
+                class="lowercase-s"
+                style="display: inline-block; opacity: 0;"
+              >
+                N
+              </div>
+              <div
+                class="lowercase-s"
+                style="display: inline-block; opacity: 0;"
+              >
+                s
+              </div>
+              <div
+                class="lowercase-s"
+                style="display: inline-block; opacity: 0;"
+              >
+                 
+              </div>
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                d
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                i
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                d
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                n
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                '
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                g
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                e
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                f
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                f
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                t
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                h
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                e
+              </div>
+               
+            </div>
+            <div
+              style="display: inline-block;"
+            >
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                g
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                r
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                o
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                u
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                n
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                d
+              </div>
+              <div
+                style="display: inline-block; opacity: 0;"
+              >
+                .
+              </div>
+            </div>
+          </div>
+        </h2>
+      </div>
+    </div>
+    <div
+      class="styled__StyledMessageWrapper-sc-1sxgqj2-3 bFuGSO"
+    >
+      <h2
+        aria-hidden="true"
+        class="disappear disappear-slower typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+        style="z-index: 1;"
+      >
+        <div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              T
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              h
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              a
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              t
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              '
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              s
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              4
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              8
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              e
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              v
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              e
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              r
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              y
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              h
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              o
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              u
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              r
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              .
+            </div>
+          </div>
+        </div>
+      </h2>
+    </div>
+    <div
+      class="styled__StyledMessageWrapper-sc-1sxgqj2-3 bFuGSO"
+    >
+      <h2
+        aria-hidden="true"
+        class="disappear disappear-slower typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+        style="z-index: 1;"
+      >
+        <div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              I
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              t
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              '
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              s
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              a
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              l
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              o
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              t
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              o
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              f
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              l
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              o
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              s
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              t
+            </div>
+             
+          </div>
+          <div
+            style="display: inline-block;"
+          >
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              a
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              m
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              b
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              i
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              t
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              i
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              o
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              n
+            </div>
+            <div
+              style="display: inline-block; opacity: 0;"
+            >
+              .
+            </div>
+          </div>
+        </div>
+      </h2>
+    </div>
+    <h2
+      class="ally__screen-reader-only-text"
+    >
+       Last Year 424,144 ABN's didn't get off the ground. That's 48 every hour. It's a lot of lost ambition.
+    </h2>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

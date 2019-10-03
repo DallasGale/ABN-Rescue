@@ -1,0 +1,938 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BoomingStates /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="styled__StyledWrapper-dnnw2v-0 hWFTUD"
+        style=""
+      >
+        <div
+          class="scrollmagic-pin-spacer"
+          data-scrollmagic-pin-spacer=""
+          style="display: block; position: relative; box-sizing: content-box; min-width: 0px; width: auto; min-height: 0px; height: auto; padding-top: 0px; padding-bottom: 3000px;"
+        >
+          <div
+            class="sticky"
+            style="position: relative; margin: auto;"
+          >
+            <div>
+              <div
+                class="panel top disappear"
+              >
+                <div
+                  class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledTopStatWrapper-dnnw2v-2 eiKRcj"
+                >
+                  <div
+                    class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                  >
+                    <div
+                      class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                    >
+                      <div>
+                        <div
+                          class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                        >
+                          <svg
+                            viewBox="0 0 78.15 53.64"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <polygon
+                              class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                              fill="#090D2B"
+                              points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                      <div
+                        class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                      >
+                        <span>
+                          0.0
+                        </span>
+                        %
+                      </div>
+                      <div
+                        class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                      >
+                        Department Stores
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="panel middle disappear"
+              >
+                <div
+                  class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledMiddleStatWrapper-dnnw2v-3 koGfXI"
+                >
+                  <div
+                    class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                  >
+                    <div
+                      class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                    >
+                      <div>
+                        <div
+                          class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                        >
+                          <svg
+                            viewBox="0 0 78.15 53.64"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <polygon
+                              class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                              fill="#090D2B"
+                              points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                      <div
+                        class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                      >
+                        <span>
+                          0.0
+                        </span>
+                        %
+                      </div>
+                      <div
+                        class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                      >
+                        Taxi
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="panel bottom disappear"
+              >
+                <div
+                  class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledBottomStatWrapper-dnnw2v-4 kkBcKX"
+                >
+                  <div
+                    class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                  >
+                    <div
+                      class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                    >
+                      <div>
+                        <div
+                          class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                        >
+                          <svg
+                            viewBox="0 0 78.15 53.64"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <polygon
+                              class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                              fill="#090D2B"
+                              points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                      <div
+                        class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                      >
+                        <span>
+                          0.0
+                        </span>
+                        %
+                      </div>
+                      <div
+                        class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                      >
+                        Iron Ore
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="styled__StyledMessageWrapper-dnnw2v-5 hDrdOA"
+                >
+                  <h2
+                    class="typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+                  >
+                    <div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          A
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          n
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          d
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          i
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          n
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          y
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          o
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          u
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          r
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          t
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          a
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          t
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          ,
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          t
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          h
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          n
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          w
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          b
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          u
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          i
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          n
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          s
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          a
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          r
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          o
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          n
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          t
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          h
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          e
+                        </div>
+                         
+                      </div>
+                      <div
+                        style="display: inline-block;"
+                      >
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          u
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          p
+                        </div>
+                        <div
+                          style="display: inline-block; opacity: 0;"
+                        >
+                          .
+                        </div>
+                      </div>
+                    </div>
+                  </h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="styled__StyledWrapper-dnnw2v-0 hWFTUD"
+      style=""
+    >
+      <div
+        class="scrollmagic-pin-spacer"
+        data-scrollmagic-pin-spacer=""
+        style="display: block; position: relative; box-sizing: content-box; min-width: 0px; width: auto; min-height: 0px; height: auto; padding-top: 0px; padding-bottom: 3000px;"
+      >
+        <div
+          class="sticky"
+          style="position: relative; margin: auto;"
+        >
+          <div>
+            <div
+              class="panel top disappear"
+            >
+              <div
+                class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledTopStatWrapper-dnnw2v-2 eiKRcj"
+              >
+                <div
+                  class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                >
+                  <div
+                    class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                  >
+                    <div>
+                      <div
+                        class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                      >
+                        <svg
+                          viewBox="0 0 78.15 53.64"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <polygon
+                            class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                            fill="#090D2B"
+                            points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                          />
+                        </svg>
+                      </div>
+                    </div>
+                    <div
+                      class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                    >
+                      <span>
+                        0.0
+                      </span>
+                      %
+                    </div>
+                    <div
+                      class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                    >
+                      Department Stores
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="panel middle disappear"
+            >
+              <div
+                class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledMiddleStatWrapper-dnnw2v-3 koGfXI"
+              >
+                <div
+                  class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                >
+                  <div
+                    class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                  >
+                    <div>
+                      <div
+                        class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                      >
+                        <svg
+                          viewBox="0 0 78.15 53.64"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <polygon
+                            class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                            fill="#090D2B"
+                            points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                          />
+                        </svg>
+                      </div>
+                    </div>
+                    <div
+                      class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                    >
+                      <span>
+                        0.0
+                      </span>
+                      %
+                    </div>
+                    <div
+                      class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                    >
+                      Taxi
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="panel bottom disappear"
+            >
+              <div
+                class="styled__StyledStatWrapper-dnnw2v-1 bar-label-and-stat  styled__StyledBottomStatWrapper-dnnw2v-4 kkBcKX"
+              >
+                <div
+                  class="stat_with_label__StyledContent-sc-172radv-0 cbnwWT"
+                >
+                  <div
+                    class="stat_with_label__StyledGridHorizonal-sc-172radv-3 cHCDpf"
+                  >
+                    <div>
+                      <div
+                        class="direction__up icon_arrow__StyledWrapper-q7l8wn-2 voSVW"
+                      >
+                        <svg
+                          viewBox="0 0 78.15 53.64"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <polygon
+                            class="icon_arrow__StyledPolygon-q7l8wn-1 kQKOTF"
+                            fill="#090D2B"
+                            points="51.44 53.64 78.14 26.82 51.44 0 45.77 5.64 62.87 22.82 0 22.82 0 30.82 62.87 30.82 45.77 48 51.44 53.64"
+                          />
+                        </svg>
+                      </div>
+                    </div>
+                    <div
+                      class="stat_with_label__StyledStat-sc-172radv-2 CBNYU"
+                    >
+                      <span>
+                        0.0
+                      </span>
+                      %
+                    </div>
+                    <div
+                      class="has-arrow horizontal stat_with_label__StyledTitle-sc-172radv-1 gDKOoL"
+                    >
+                      Iron Ore
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="styled__StyledMessageWrapper-dnnw2v-5 hDrdOA"
+              >
+                <h2
+                  class="typography__StyledMessageH2-sc-1n1kkhl-0 eJdLjf"
+                >
+                  <div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        A
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        n
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        d
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        i
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        n
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        y
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        o
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        u
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        r
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        t
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        a
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        t
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        ,
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        t
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        h
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        n
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        w
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        b
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        u
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        i
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        n
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        s
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        a
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        r
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        o
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        n
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        t
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        h
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        e
+                      </div>
+                       
+                    </div>
+                    <div
+                      style="display: inline-block;"
+                    >
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        u
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        p
+                      </div>
+                      <div
+                        style="display: inline-block; opacity: 0;"
+                      >
+                        .
+                      </div>
+                    </div>
+                  </div>
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

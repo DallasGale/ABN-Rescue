@@ -1,0 +1,433 @@
+@font-face {
+  font-family: 'druk-bold';
+  src: url('../fonts/Druk-Bold-Web.woff2') format('woff2'),
+    url('../fonts/Druk-Bold-Web.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'druk-medium';
+  src: url('../fonts/Druk-Medium-Web.woff2') format('woff2'),
+    url('../fonts/Druk-Medium-Web.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'neptune-bold';
+  src: url('../fonts/39D72D_0_0.eot');
+  src: url('../fonts/39D72D_0_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/39D72D_0_0.woff2') format('woff2'),
+    url('../fonts/39D72D_0_0.woff') format('woff'),
+    url('../fonts/39D72D_0_0.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'neptune';
+  src: url('../fonts/39D72D_1_0.eot');
+  src: url('../fonts/39D72D_1_0.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/39D72D_1_0.woff2') format('woff2'),
+    url('../fonts/39D72D_1_0.woff') format('woff'),
+    url('../fonts/39D72D_1_0.ttf') format('truetype');
+}
+html {
+  font: 112.5%/1.45em neptune, helvetica, arial, sans-serif;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+* {
+  box-sizing: inherit;
+}
+*:before {
+  box-sizing: inherit;
+}
+*:after {
+  box-sizing: inherit;
+}
+[type='checkbox'],
+[type='radio'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  font: inherit;
+  margin: 0;
+}
+body {
+  background: #090d2b;
+  font-family: neptune, helvetica, arial, sans-serif;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+form.webform-client-form {
+  padding-top: 10px;
+  padding-right: 10px;
+  margin-left: 170px;
+  padding-left: 80px;
+  border-left: 1px solid white;
+}
+@media only screen and (max-width: 1200px) {
+  form.webform-client-form {
+    margin-left: 140px;
+    padding-left: 50px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  form.webform-client-form {
+    margin: 0;
+    padding: 0 5px;
+    border: none;
+  }
+}
+span.required,
+span.cvMessage,
+span.ErrorLabel {
+  display: none;
+}
+.webform-component--name:before,
+.webform-component-checkboxes:nth-child(3):before,
+#edit-submitted-file-ajax-wrapper:before {
+  left: -250px;
+  position: absolute;
+  font-family: druk-bold;
+  color: white;
+  font-size: 20px;
+  top: 10px;
+}
+.webform-component-checkboxes:nth-child(3):before {
+  top: 0;
+}
+#edit-submitted-file-ajax-wrapper:before {
+  top: 7px;
+}
+@media only screen and (max-width: 1200px) {
+  .webform-component--name:before,
+  .webform-component-checkboxes:nth-child(3):before,
+  #edit-submitted-file-ajax-wrapper:before {
+    left: -190px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .webform-component--name:before,
+  .webform-component-checkboxes:nth-child(3):before,
+  #edit-submitted-file-ajax-wrapper:before {
+    position: static;
+    display: block;
+    padding: 20px 0 30px 0;
+    width: 100%;
+    font-size: 30px;
+  }
+}
+.webform-component--name:before {
+  content: '1. YOUR DETAILS';
+}
+.webform-component-checkboxes:nth-child(3):before {
+  content: '2. CONSENT';
+}
+#edit-submitted-file-ajax-wrapper:before {
+  content: '3. UPLOAD & SUBMIT';
+}
+.webform-client-form {
+  position: relative;
+}
+.webform-component--name,
+.webform-component--email {
+  position: relative;
+  display: flex;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 900px) {
+  .webform-component--name,
+  .webform-component--email {
+    display: block;
+  }
+}
+.webform-component--name .EditingFormErrorLabel,
+.webform-component--email .EditingFormErrorLabel,
+.webform-component-checkboxes .EditingFormErrorLabel,
+#edit-submitted-file-ajax-wrapper .EditingFormErrorLabel {
+  color: #e00b4b;
+  background: url("data:image/svg+xml;utf8,<svg width='16' height='16' xmlns='http://www.w3.org/2000/svg'><g fill='none' fill-rule='evenodd'><circle fill='%23E00B4B' cx='8' cy='8' r='8'/><path d='M7.276 8.784V3h1.56v5.784h-1.56zm.78 3.644c-.6 0-1.056-.444-1.056-1.068 0-.6.456-1.068 1.056-1.068.612 0 1.068.468 1.068 1.068 0 .624-.456 1.068-1.068 1.068z' fill='%23090D2B' fill-rule='nonzero'/></g></svg>")
+    no-repeat;
+  background-position: left 0;
+  padding-left: 22px;
+  font-size: 12px;
+  font-family: neptune-bold;
+  line-height: 16px;
+  min-height: 16px;
+}
+.webform-component--name .EditingFormErrorLabel,
+.webform-component--email .EditingFormErrorLabel {
+  position: absolute;
+  top: 50px;
+  left: 108px;
+}
+@media only screen and (max-width: 900px) {
+  .webform-component--name .EditingFormErrorLabel,
+  .webform-component--email .EditingFormErrorLabel {
+    position: absolute;
+    top: auto;
+    left: 0;
+    bottom: -10px;
+  }
+}
+.webform-component--name .EditingFormErrorLabel + input,
+.webform-component--email .EditingFormErrorLabel + input {
+  border-color: #e00b4b;
+  margin-bottom: 20px;
+}
+
+#edit-submitted-file-ajax-wrapper .EditingFormErrorLabel {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 60px;
+  line-height: 1rem;
+}
+
+@media only screen and (max-width: 900px) {
+  #edit-submitted-file-ajax-wrapper .EditingFormErrorLabel { 
+    position: static;
+    top: auto;
+    left: auto;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .webform-component-checkboxes .EditingFormErrorLabel {
+    top: 50px;
+  }
+  #edit-submitted-file-ajax-wrapper .EditingFormErrorLabel + .webform-component--file {
+    margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 670px) {
+  #edit-submitted-file-ajax-wrapper .EditingFormErrorLabel + .webform-component--file {
+     margin-top: 30px;
+   }
+ }
+@media only screen and (max-width: 400px) {
+  #edit-submitted-file-ajax-wrapper .EditingFormErrorLabel + .webform-component--file {
+     margin-top: 50px;
+   }
+ }
+label.EditingFormLabel {
+  color: white;
+  font-size: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+  white-space: nowrap;
+}
+input.form-text {
+  font-family: neptune-bold, helvetica, arial, sans-serif;;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #00ad20;
+  color: white;
+  width: 100%;
+  font-size: 20px;
+  padding-top: 10px;
+  border-radius: 0;
+  -webkit-appearance: none;
+}
+input.form-text:focus {
+  outline: 1px dotted #00ad20;
+  outline-offset: 4px;
+}
+.webform-component-checkboxes {
+  position: relative;
+}
+.webform-component-checkboxes .EditingFormErrorLabel {
+  color: #e00b4b;
+  font-size: 12px;
+  font-family: neptune-bold;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+@media only screen and (max-width: 900px) {
+  .webform-component-checkboxes .EditingFormErrorLabel {
+    top: 25px;
+    left: 30px;
+  }
+}
+.webform-component-checkboxes .EditingFormErrorLabel + #edit-submitted-t-and-c {
+  margin-bottom: 40px;
+}
+.form-checkboxes {
+  margin-bottom: 20px;
+}
+.form-checkboxes input[type='checkbox'] {
+  opacity: 0;
+  position: absolute;
+}
+.form-checkboxes label {
+  position: relative;
+  display: inline-block;
+  padding-left: 30px;
+  color: white;
+  font-size: 12px;
+}
+.form-checkboxes label a {
+  color: white;
+}
+.form-checkboxes label::before,
+.form-checkboxes label::after {
+  position: absolute;
+  content: '';
+  display: inline-block;
+}
+.form-checkboxes label::before {
+  height: 16px;
+  width: 16px;
+  border: 2px solid white;
+  left: 0px;
+}
+.form-checkboxes label::after {
+  height: 5px;
+  width: 9px;
+  border-left: 2px solid white;
+  border-bottom: 2px solid white;
+  transform: rotate(-45deg);
+  left: 4px;
+  top: 4px;
+}
+.form-checkboxes input[type='checkbox'] + label::after {
+  content: none;
+}
+.form-checkboxes input[type='checkbox']:checked + label::after {
+  content: '';
+}
+.form-checkboxes input[type='checkbox']:focus + label::before {
+  outline: rgb(59, 153, 252) auto 5px;
+}
+.webform-component--t-and-c {
+  display: flex;
+  flex-wrap: wrap;
+}
+.webform-component--t-and-c a {
+  color: white;
+}
+.webform-component--t-and-c .form-checkboxes label {
+  white-space: nowrap;
+}
+.webform-component--t-and-c .description {
+  color: white;
+  padding-left: 28px;
+  font-size: 12px;
+  padding-top: 4px;
+}
+@media only screen and (max-width: 900px) { 
+  .webform-component--t-and-c .description { 
+    flex-basis: 100%;
+    padding-left: 0;
+  }
+}
+#edit-submitted-file-ajax-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0 0 0;
+  position: relative;
+}
+.webform-component--file {
+  display: flex;
+}
+@media only screen and (max-width: 900px) {
+  .webform-component--file {
+    flex-direction: column;
+  }
+}
+#edit-submitted-file-ajax-wrapper .description, 
+#edit-submitted-file-ajax-wrapper .form-submit 
+{
+  display: none;
+}
+label[for='edit-submitted-file-upload'] {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 15px;
+  border: 2px dashed white;
+  cursor: pointer;
+  min-width: 400px;
+}
+label[for='edit-submitted-file-upload'] span {
+  font-size: 16px;
+  padding-right: 20px;
+}
+label[for='edit-submitted-file-upload'] svg {
+  margin-left: auto;
+}
+@media only screen and (max-width: 900px) { 
+  label[for='edit-submitted-file-upload'] { 
+    min-width: 0;
+    padding: 10px;
+  }
+  label[for='edit-submitted-file-upload'] span {
+    font-size: 12px;
+  }
+  label[for='edit-submitted-file-upload'] svg {
+    transform: scale(.85);
+  }
+}
+.file-selected + svg {
+  transform: translateX(3px);
+}
+label.focused {
+  outline: 1px dotted #212121;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+.form-managed-file .form-file {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+.form-actions {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: -10px;
+  right: 0;
+  padding: 10px 0;
+}
+@media only screen and (max-width: 900px) {
+  .form-actions {
+    position: static;
+    bottom: auto;
+    right: auto;
+    margin-top: 30px;
+  }
+}
+.form-actions .form-submit {
+  padding: 0;
+  font-size: 30px;
+  color: white;
+  background: transparent;
+  border: 0;
+  text-transform: uppercase;
+  font-family: druk-bold;
+  margin-right: 10px;
+  cursor: pointer;
+}
+p.submitted {
+  font-family: Druk-Medium;
+  font-size: 65px;
+  color: #00ad20;
+  letter-spacing: 0;
+  line-height: 60px;
+  max-width: 570px;
+  padding: 0 40px 40px 0;
+}

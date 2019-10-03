@@ -1,0 +1,230 @@
+// $colorNavy : #090D2B;
+// $colorOrange : #F4694B;
+// $colorYellow : #FDBC3C;
+// $colorLightYellow: #FECE71;
+// $colorBlue : #0084F0;
+// $colorWhite : #ffffff;
+
+// Blue Shades
+
+$shutterblue1: lighten($colorBlue, 5%);
+$shutterblue2: lighten($colorBlue, 10%);
+$shutterblue3: lighten($colorBlue, 15%);
+$shutterblue4: lighten($colorBlue, 5%);
+$shutterblue5: lighten($colorBlue, 10%);
+$shutterblue6: lighten($colorBlue, 15%);
+
+$shutters : $shutterblue1,$shutterblue2,$shutterblue3,$shutterblue4,$shutterblue5,$shutterblue6;
+
+
+$closedDiameter: 5%;
+$halfClosedDiameter: 20%;
+$openedDiameter: 32%;
+$closedAngle: -18;
+$halfClosedAngle: 0;
+$openedAngle: 40;
+
+
+.scene-photography {
+	height: 100vh;
+	width: 100vw;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	background-color: $colorBlue;
+	overflow: hidden;
+}
+.scene-container {
+  width: 50%;
+  max-width: 500px;
+  min-width: 300px;
+}
+
+.lens-outer-wrapper {
+  width: 35vw;
+  height: 35vw;
+  margin: 0 auto;
+  position: relative;
+
+  @include respond-to(tablet-down) {
+    width: 100%;
+    height: 57vw;
+  }
+  
+  @include respond-to(phone-down) {
+    height: 63vw;
+  }
+}
+
+.lens {
+  width: 35vw;
+  height: 35vw;
+  box-sizing: border-box;
+  border: 5vh solid lighten($colorBlue, 30%);
+  border-radius: 50%;
+  position: relative;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#090d2b+52,8acaff+75,8acaff+75 */
+  background: rgb(9,13,43); /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  rgba(9,13,43,1) 52%, rgba(138,202,255,1) 75%, rgba(138,202,255,1) 75%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover,  rgba(9,13,43,1) 52%,rgba(138,202,255,1) 75%,rgba(138,202,255,1) 75%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center,  rgba(9,13,43,1) 52%,rgba(138,202,255,1) 75%,rgba(138,202,255,1) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#090d2b', endColorstr='#8acaff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  overflow: hidden;
+  transform:translateZ(0);
+  z-index: 1;
+  -webkit-box-shadow: 0px 8px 22px -5px rgba(12,89,148,0.51);
+  -moz-box-shadow: 0px 8px 22px -5px rgba(12,89,148,0.51);
+  box-shadow: 0px 8px 22px -5px rgba(12,89,148,0.51);
+
+  @include respond-to(tablet-down) {
+    border-width: 5vw;
+    text-align: center;
+    margin: 0 auto;
+    height: 100%;
+    width: 57vw;
+  }
+
+  @include respond-to(phone-down) {
+    width: 63vw;
+  }
+
+  &__shutter-wrapper {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    &:before, &:after {
+      content : '';
+      border-radius: 50%;
+      background-color: $colorWhite;
+      position: absolute;
+      top: 25%;
+      left: 25%;
+      z-index: 1;
+    }
+    &:before {
+      width: 11%;
+      height: 11%;
+      opacity: 0.9;
+    }
+    &:after {
+      width: 6%;
+      height: 6%;
+      top: calc(25% + 70px);
+      left: calc(25% + 70px);
+      opacity: 0.5;
+
+      @include respond-to(tablet-down) {
+        top: calc(25% + 10%);
+        left: calc(25% + 10%);
+      }
+    }
+  }
+}
+
+.shutter-blade {
+  transform: skew(-8deg) translateX(0);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  height: 500px;
+  margin-top: -500px; 
+  margin-left: -500px; 
+  overflow: hidden;
+  backface-visibility: hidden;
+  transform-origin: 100% 100%;
+}
+
+$mobileShutter: 0.5;
+
+@for $i from 1 through length($shutters) {
+  .shutter-blade:nth-child(#{$i}) {
+    background-color: nth($shutters, $i);
+    transform:
+    rotateZ(#{($i*(360/6)+$closedAngle)}deg)      
+    skewY(28deg)
+    translate3d((260/300)*$closedDiameter, -$closedDiameter,0);
+  }
+
+  .shutter-blade:nth-child(#{$i}) {
+    animation: shutterFocus#{$i} 5500ms ease-in-out 650ms 1 forwards;
+    @include respond-to(tablet-down) {
+      animation: shutterFocusMobile#{$i} 5500ms ease-in-out 650ms 1 forwards;
+    }
+  }
+
+  @keyframes shutterFocus#{$i} {
+    0% {
+      transform:
+      rotateZ(#{($i*(360/6)+$closedAngle)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*$closedDiameter, -$closedDiameter,0);
+    }
+    10% {
+      transform:
+      rotateZ(#{($i*(360/6)+$openedAngle)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*$openedDiameter, -$openedDiameter,0);
+    }
+    25% {
+      animation-timing-function: ease-out;
+      transform:
+      rotateZ(#{($i*(360/6)+$halfClosedAngle)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*$halfClosedDiameter, -$halfClosedDiameter,0);
+    }
+    
+    40%, 75% {
+      transform:
+      rotateZ(#{($i*(360/6)+$openedAngle)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*$openedDiameter, -$openedDiameter,0);
+    }
+
+    100% {
+      animation-timing-function: ease-out;
+      transform:
+      rotateZ(#{($i*(360/6)+$halfClosedAngle)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*$halfClosedDiameter, -$halfClosedDiameter,0);
+    }
+  }
+
+  @keyframes shutterFocusMobile#{$i} {
+    0% {
+      transform:
+      rotateZ(#{($i*(360/6)+$closedAngle*$mobileShutter)}deg)      
+      skewY(28deg)
+      translate3d((260/300)*($closedDiameter*$mobileShutter), (-$closedDiameter*$mobileShutter),0);
+    }
+    10% {
+      transform:
+      rotateZ(#{($i*(360/6)+($openedAngle*$mobileShutter))}deg)      
+      skewY(28deg)
+      translate3d((260/300)*($openedDiameter*$mobileShutter), -($openedDiameter*$mobileShutter),0);
+    }
+    25% {
+      animation-timing-function: ease-out;
+      transform:
+      rotateZ(#{($i*(360/6)+($halfClosedAngle*$mobileShutter))}deg)      
+      skewY(28deg)
+      translate3d((260/300)*($halfClosedDiameter*$mobileShutter), -($halfClosedDiameter*$mobileShutter),0);
+    }
+    
+    40%, 75% {
+      transform:
+      rotateZ(#{($i*(360/6)+($openedAngle*$mobileShutter))}deg)      
+      skewY(28deg)
+      translate3d((260/300)*($openedDiameter*$mobileShutter), -($openedDiameter*$mobileShutter),0);
+    }
+
+    100% {
+      animation-timing-function: ease-out;
+      transform:
+      rotateZ(#{($i*(360/6)+($halfClosedAngle*$mobileShutter))}deg)      
+      skewY(28deg)
+      translate3d((260/300)*($halfClosedDiameter*$mobileShutter), -($halfClosedDiameter*$mobileShutter),0);
+    }
+  }
+}

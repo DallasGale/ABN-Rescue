@@ -1,0 +1,1522 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BubbleAnimation /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="styled__StyledBubbles-sc-6gl2kl-0 htNyWP"
+        direction="down"
+      >
+        <div
+          class="bubbles"
+        >
+          <div
+            class="pose-bubble"
+            style="left: 64%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.37142857142857144);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 16%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.30714285714285716);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 70%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.07857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 25%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.36428571428571427);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 20%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.6857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 92%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.37142857142857144);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 3%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.05);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 43%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5428571428571428);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 79%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5428571428571428);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 9%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.55);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 60%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.14285714285714285);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 9%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.03571428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 34%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.7);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 74%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5071428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 38%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.45714285714285713);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 12%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.65);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 25%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.05714285714285714);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 75%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.17142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 60%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 44%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.36428571428571427);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 1%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 24%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.1357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 14%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 42%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.7);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 12%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5071428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 76%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.12857142857142856);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 70%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 2%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.6);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 20%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2642857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 10%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.08571428571428572);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 72%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.03571428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 39%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.12142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 52%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5214285714285715);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 38%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.45714285714285713);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 51%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.32857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 13%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.17857142857142858);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 90%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 29%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.06428571428571428);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 51%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.14285714285714285);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 38%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 56%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5785714285714286);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 95%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.17142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 88%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 37%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 69%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.6714285714285714);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 58%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.39285714285714285);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 40%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.02857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 18%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 62%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 39%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 73%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5642857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 30%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 28%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4785714285714286);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 6%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 37%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5428571428571428);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 100%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.35714285714285715);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 21%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.20714285714285716);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 100%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.05);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 41%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.15);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 82%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.03571428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 76%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2714285714285714);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 43%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.17142857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 11%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2571428571428571);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 66%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4928571428571429);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 34%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.07857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 91%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.6857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 79%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.37142857142857144);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 73%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5857142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 25%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 23%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.1357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 88%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.6285714285714286);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 98%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.39285714285714285);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 5%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.65);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 96%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.2642857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 6%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5142857142857142);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 27%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.4642857142857143);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 62%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3357142857142857);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 23%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.5785714285714286);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 51%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.10714285714285714);"
+            />
+          </div>
+          <div
+            class="pose-bubble"
+            style="left: 12%; top: -10%;"
+          >
+            <div
+              class="bubble"
+              style="transform: scale(0.3);"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="styled__StyledBubbles-sc-6gl2kl-0 htNyWP"
+      direction="down"
+    >
+      <div
+        class="bubbles"
+      >
+        <div
+          class="pose-bubble"
+          style="left: 64%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.37142857142857144);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 16%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.30714285714285716);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 70%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.07857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 25%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.36428571428571427);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 20%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.6857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 92%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.37142857142857144);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 3%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.05);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 43%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5428571428571428);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 79%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5428571428571428);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 9%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.55);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 60%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.14285714285714285);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 9%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.03571428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 34%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.7);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 74%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5071428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 38%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.45714285714285713);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 12%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.65);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 25%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.05714285714285714);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 75%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.17142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 60%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 44%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.36428571428571427);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 1%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 24%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.1357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 14%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 42%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.7);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 12%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5071428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 76%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.12857142857142856);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 70%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 2%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.6);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 20%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2642857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 10%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.08571428571428572);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 72%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.03571428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 39%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.12142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 52%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5214285714285715);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 38%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.45714285714285713);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 51%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.32857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 13%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.17857142857142858);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 90%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 29%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.06428571428571428);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 51%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.14285714285714285);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 38%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 56%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5785714285714286);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 95%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.17142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 88%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 37%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 69%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.6714285714285714);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 58%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.39285714285714285);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 40%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.02857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 18%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 62%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 39%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 73%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5642857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 30%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 28%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4785714285714286);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 6%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 37%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5428571428571428);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 100%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.35714285714285715);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 21%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.20714285714285716);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 100%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.05);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 41%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.15);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 82%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.03571428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 76%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2714285714285714);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 43%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.17142857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 11%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2571428571428571);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 66%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4928571428571429);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 34%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.07857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 91%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.6857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 79%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.37142857142857144);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 73%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5857142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 25%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 23%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.1357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 88%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.6285714285714286);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 98%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.39285714285714285);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 5%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.65);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 96%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.2642857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 6%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5142857142857142);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 27%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.4642857142857143);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 62%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3357142857142857);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 23%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.5785714285714286);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 51%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.10714285714285714);"
+          />
+        </div>
+        <div
+          class="pose-bubble"
+          style="left: 12%; top: -10%;"
+        >
+          <div
+            class="bubble"
+            style="transform: scale(0.3);"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

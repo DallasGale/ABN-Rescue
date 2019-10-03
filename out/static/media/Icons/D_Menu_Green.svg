@@ -1,0 +1,15 @@
+<svg id="Burger" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00ad20;
+        stroke-width: 8px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M36.373,31.928H0"/>
+  <path class="cls-1" d="M36.373,18.044H0"/>
+  <path class="cls-1" d="M36.373,3.695H0"/>
+</svg>

@@ -1,0 +1,55 @@
+@import './colors';
+
+.ally {
+  &__screen-reader-only-text {
+    position: absolute;
+    left: 0;
+    top: -500px;
+    font-size: 1px;
+  }
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.screen-section {
+  position: relative;
+  min-height: 100vh;
+  height: auto;
+  display: block;
+}
+
+.anchor {
+  position: relative;
+  top: 50vh;
+  visibility: hidden;
+
+  &__ambition-explorer {
+    top: 20vh;
+  }
+
+  &__grant-application {
+    top: 1vh;
+  }
+}
+
+
+.ambition-explorer-take-over {
+  height: 200vh;
+  z-index: 20;
+}
+
+.ambition-explorer-release {
+  height: auto;
+}
+
+.z-index-hide {
+  z-index: 0;
+}
+
+.ignite-boost {
+  position: relative;
+  z-index: 2;
+  background: $colorGreen;
+}

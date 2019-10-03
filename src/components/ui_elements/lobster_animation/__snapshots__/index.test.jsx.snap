@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LobsterAnimation /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="styled__StyledContent-e4zug6-0 bUQhGI"
+      >
+        <div
+          class="lobster"
+        >
+          <div
+            class="lobster-elements-container"
+          >
+            <div
+              class="feeler-position feeler-position--left"
+            >
+              <div
+                class="feeler-box feeler-box--left"
+              >
+                <div
+                  class="feeler"
+                />
+              </div>
+            </div>
+            <div
+              class="feeler-position feeler-position--right"
+            >
+              <div
+                class="feeler-box feeler-box--right"
+              >
+                <div
+                  class="feeler"
+                />
+              </div>
+            </div>
+            <div
+              class="arms-position arms-position--left"
+            >
+              <div
+                class="arms-box arms-box--left"
+              >
+                <div
+                  class="arm arm-1"
+                />
+                <div
+                  class="arm arm-2"
+                />
+              </div>
+            </div>
+            <div
+              class="arms-position arms-position--right"
+            >
+              <div
+                class="arms-box arms-box--right"
+              >
+                <div
+                  class="arm arm-1"
+                />
+                <div
+                  class="arm arm-2"
+                />
+              </div>
+            </div>
+          </div>
+          <svg
+            data-name="Layer 1"
+            id="Layer_1"
+            viewBox="0 0 343.08 561.66"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polygon
+              class="cls-1"
+              points="222.13 85.66 170.48 137.31 118.83 85.66 222.13 85.66"
+            />
+            <rect
+              class="cls-1"
+              height="130.05"
+              transform="translate(1166.47 392.92) rotate(-45)"
+              width="130.05"
+              x="-596.99"
+              y="-941.07"
+            />
+            <path
+              class="cls-1"
+              d="M-584-587.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-29.33C-574-612-584-600.49-584-587.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-4"
+              d="M-480-587.82c0,12.66-10,23.82-22.67,23.82H-532v-48h28.82C-490.52-612-480-600.49-480-587.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-1"
+              d="M-592-643.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-37.33C-582-668-592-656.49-592-643.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-4"
+              d="M-472-643.82c0,12.66-10,23.82-22.67,23.82H-532v-48h36.82C-482.52-668-472-656.49-472-643.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-1"
+              d="M-596-699.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-41.33C-586-724-596-712.49-596-699.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-1"
+              d="M-604-755.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-49.33C-594-780-604-768.49-604-755.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-4"
+              d="M-468-699.82c0,12.66-10,23.82-22.67,23.82H-532v-48h40.82C-478.52-724-468-712.49-468-699.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <path
+              class="cls-4"
+              d="M-460-755.82c0,12.66-10,23.82-22.67,23.82H-532v-48h48.82C-470.52-780-460-768.49-460-755.82Z"
+              transform="translate(702.83 1025.66)"
+            />
+            <polygon
+              class="cls-4"
+              points="170.83 469.66 278.83 561.66 62.83 561.66 170.83 469.66"
+            />
+            <polygon
+              class="cls-1"
+              points="170.83 469.66 122.83 561.66 62.83 561.66 170.83 469.66"
+            />
+            <polygon
+              class="cls-1"
+              points="170.83 469.66 170.83 561.66 214.83 561.66 170.83 469.66"
+            />
+            <circle
+              class="cls-5"
+              cx="133.04"
+              cy="75.66"
+              r="6"
+            />
+            <circle
+              class="cls-5"
+              cx="208.83"
+              cy="75.66"
+              r="6"
+            />
+            <polygon
+              class="cls-4"
+              points="170.87 57.66 262.83 149.62 170.87 241.58 170.87 57.66"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="styled__StyledContent-e4zug6-0 bUQhGI"
+    >
+      <div
+        class="lobster"
+      >
+        <div
+          class="lobster-elements-container"
+        >
+          <div
+            class="feeler-position feeler-position--left"
+          >
+            <div
+              class="feeler-box feeler-box--left"
+            >
+              <div
+                class="feeler"
+              />
+            </div>
+          </div>
+          <div
+            class="feeler-position feeler-position--right"
+          >
+            <div
+              class="feeler-box feeler-box--right"
+            >
+              <div
+                class="feeler"
+              />
+            </div>
+          </div>
+          <div
+            class="arms-position arms-position--left"
+          >
+            <div
+              class="arms-box arms-box--left"
+            >
+              <div
+                class="arm arm-1"
+              />
+              <div
+                class="arm arm-2"
+              />
+            </div>
+          </div>
+          <div
+            class="arms-position arms-position--right"
+          >
+            <div
+              class="arms-box arms-box--right"
+            >
+              <div
+                class="arm arm-1"
+              />
+              <div
+                class="arm arm-2"
+              />
+            </div>
+          </div>
+        </div>
+        <svg
+          data-name="Layer 1"
+          id="Layer_1"
+          viewBox="0 0 343.08 561.66"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <polygon
+            class="cls-1"
+            points="222.13 85.66 170.48 137.31 118.83 85.66 222.13 85.66"
+          />
+          <rect
+            class="cls-1"
+            height="130.05"
+            transform="translate(1166.47 392.92) rotate(-45)"
+            width="130.05"
+            x="-596.99"
+            y="-941.07"
+          />
+          <path
+            class="cls-1"
+            d="M-584-587.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-29.33C-574-612-584-600.49-584-587.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-4"
+            d="M-480-587.82c0,12.66-10,23.82-22.67,23.82H-532v-48h28.82C-490.52-612-480-600.49-480-587.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-1"
+            d="M-592-643.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-37.33C-582-668-592-656.49-592-643.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-4"
+            d="M-472-643.82c0,12.66-10,23.82-22.67,23.82H-532v-48h36.82C-482.52-668-472-656.49-472-643.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-1"
+            d="M-596-699.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-41.33C-586-724-596-712.49-596-699.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-1"
+            d="M-604-755.82c0,12.66,10.52,23.82,23.18,23.82H-532v-48h-49.33C-594-780-604-768.49-604-755.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-4"
+            d="M-468-699.82c0,12.66-10,23.82-22.67,23.82H-532v-48h40.82C-478.52-724-468-712.49-468-699.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <path
+            class="cls-4"
+            d="M-460-755.82c0,12.66-10,23.82-22.67,23.82H-532v-48h48.82C-470.52-780-460-768.49-460-755.82Z"
+            transform="translate(702.83 1025.66)"
+          />
+          <polygon
+            class="cls-4"
+            points="170.83 469.66 278.83 561.66 62.83 561.66 170.83 469.66"
+          />
+          <polygon
+            class="cls-1"
+            points="170.83 469.66 122.83 561.66 62.83 561.66 170.83 469.66"
+          />
+          <polygon
+            class="cls-1"
+            points="170.83 469.66 170.83 561.66 214.83 561.66 170.83 469.66"
+          />
+          <circle
+            class="cls-5"
+            cx="133.04"
+            cy="75.66"
+            r="6"
+          />
+          <circle
+            class="cls-5"
+            cx="208.83"
+            cy="75.66"
+            r="6"
+          />
+          <polygon
+            class="cls-4"
+            points="170.87 57.66 262.83 149.62 170.87 241.58 170.87 57.66"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

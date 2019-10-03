@@ -1,0 +1,37 @@
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == "phone-down" {
+    @media (max-width: 748px) {
+    @content;
+    }
+  }
+
+  @if $breakpoint == "tablet-down" {
+    @media (max-width: 1024px) {
+    @content;
+    }
+  } 
+
+  @if $breakpoint == "desktop-down" {
+    @media (max-width: 1449px) {
+    @content;
+    }
+  }
+
+  @if $breakpoint == "widescreen-down" {
+    @media (max-width: 1999px) {
+    @content;
+    }
+  }
+
+  @else if $breakpoint == "phone-up" {
+      @media (min-width: 749px) {
+        @content;
+    }
+  }
+
+  @else if $breakpoint == "tablet-up" {
+      @media (min-width: 1025px) {
+        @content;
+    }
+  }
+}

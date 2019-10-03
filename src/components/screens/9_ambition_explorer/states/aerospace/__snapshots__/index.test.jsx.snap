@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Aerospace /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="styled__StyledWrapper-qpmq7s-0 gXpTgK"
+        style=""
+      >
+        <div
+          class="scrollmagic-pin-spacer"
+          data-scrollmagic-pin-spacer=""
+          style="display: block; position: relative; box-sizing: content-box; min-width: 0px; width: auto; min-height: 0px; height: auto; padding-top: 0px; padding-bottom: 3000px;"
+        >
+          <div
+            class="sticky"
+            style="position: relative; margin: auto;"
+          >
+            <div
+              class="layout-grid"
+            >
+              <div>
+                <div />
+              </div>
+              <div />
+            </div>
+            <div
+              class="   spaceship__StyledWrapper-sc-16i00as-0 jQuYCi"
+            >
+              <svg
+                id="Spaceship"
+                style="enable-background: new 0 0 674 733.4;"
+                version="1.1"
+                viewBox="0 0 674 733.4"
+                x="0px"
+                xmlns="http://www.w3.org/2000/svg"
+                y="0px"
+              >
+                <polygon
+                  class="st0"
+                  points="262,379.4 262,641.4 0,641.4 "
+                />
+                <polygon
+                  class="st0"
+                  points="412,379.4 412,641.4 674,641.4 "
+                />
+                <path
+                  class="st0"
+                  d="M207,733.4c0-30.4,24.6-55,55-55l0,0l0,0c30.4,0,55,24.6,55,55l0,0H207z"
+                />
+                <path
+                  class="st0"
+                  d="M359,733.4c0-30.4,24.6-55,55-55l0,0l0,0c30.4,0,55,24.6,55,55l0,0H359z"
+                />
+                <path
+                  class="st1"
+                  d="M338,0L338,0c72.3,0,131,58.7,131,131v547.4l0,0H207l0,0V131C207,58.7,265.7,0,338,0z"
+                />
+                <circle
+                  class="st2"
+                  cx="338"
+                  cy="232.4"
+                  r="66"
+                />
+              </svg>
+              <div
+                class="spaceship__StyledExhaustWrapper-sc-16i00as-1 fWEnbt"
+              >
+                <div
+                  class="spaceship__StyledExhaust-sc-16i00as-2 eGSWdy"
+                >
+                  <div
+                    class="spaceship__StyledExhaustInner-sc-16i00as-3 eiXeze"
+                  />
+                </div>
+                <div
+                  class="spaceship__StyledExhaust-sc-16i00as-2 eGSWdy"
+                >
+                  <div
+                    class="spaceship__StyledExhaustInner-sc-16i00as-3 eiXeze"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h2
+          class="ally__screen-reader-only-text"
+        >
+          NSW IS ALSO SHOOTING FOR THE STARS. WITH 368 AEROSPACE BUSINESSES.
+        </h2>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="styled__StyledWrapper-qpmq7s-0 gXpTgK"
+      style=""
+    >
+      <div
+        class="scrollmagic-pin-spacer"
+        data-scrollmagic-pin-spacer=""
+        style="display: block; position: relative; box-sizing: content-box; min-width: 0px; width: auto; min-height: 0px; height: auto; padding-top: 0px; padding-bottom: 3000px;"
+      >
+        <div
+          class="sticky"
+          style="position: relative; margin: auto;"
+        >
+          <div
+            class="layout-grid"
+          >
+            <div>
+              <div />
+            </div>
+            <div />
+          </div>
+          <div
+            class="   spaceship__StyledWrapper-sc-16i00as-0 jQuYCi"
+          >
+            <svg
+              id="Spaceship"
+              style="enable-background: new 0 0 674 733.4;"
+              version="1.1"
+              viewBox="0 0 674 733.4"
+              x="0px"
+              xmlns="http://www.w3.org/2000/svg"
+              y="0px"
+            >
+              <polygon
+                class="st0"
+                points="262,379.4 262,641.4 0,641.4 "
+              />
+              <polygon
+                class="st0"
+                points="412,379.4 412,641.4 674,641.4 "
+              />
+              <path
+                class="st0"
+                d="M207,733.4c0-30.4,24.6-55,55-55l0,0l0,0c30.4,0,55,24.6,55,55l0,0H207z"
+              />
+              <path
+                class="st0"
+                d="M359,733.4c0-30.4,24.6-55,55-55l0,0l0,0c30.4,0,55,24.6,55,55l0,0H359z"
+              />
+              <path
+                class="st1"
+                d="M338,0L338,0c72.3,0,131,58.7,131,131v547.4l0,0H207l0,0V131C207,58.7,265.7,0,338,0z"
+              />
+              <circle
+                class="st2"
+                cx="338"
+                cy="232.4"
+                r="66"
+              />
+            </svg>
+            <div
+              class="spaceship__StyledExhaustWrapper-sc-16i00as-1 fWEnbt"
+            >
+              <div
+                class="spaceship__StyledExhaust-sc-16i00as-2 eGSWdy"
+              >
+                <div
+                  class="spaceship__StyledExhaustInner-sc-16i00as-3 eiXeze"
+                />
+              </div>
+              <div
+                class="spaceship__StyledExhaust-sc-16i00as-2 eGSWdy"
+              >
+                <div
+                  class="spaceship__StyledExhaustInner-sc-16i00as-3 eiXeze"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h2
+        class="ally__screen-reader-only-text"
+      >
+        NSW IS ALSO SHOOTING FOR THE STARS. WITH 368 AEROSPACE BUSINESSES.
+      </h2>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

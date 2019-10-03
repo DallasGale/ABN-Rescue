@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SideNavigation /> renders without crashing 1`] = `
+<div>
+  <nav
+    className="styled__StyledSideNav-sc-1ciio65-0 odLRy"
+  >
+    <ul
+      className="styled__StyledUl-sc-1ciio65-1 eojgwY"
+    >
+      <li
+        className="active active__the-problem styled__StyledLi-sc-1ciio65-2 NnLCi"
+      >
+        <button
+          className="styled__StyledLink-sc-1ciio65-3 cQmFQR"
+          data-tracking="btn-click:sideNav_theProblem"
+          id="the-problem-side-nav-button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="styled__StyledDot-sc-1ciio65-4 EOVDQ"
+          >
+            <svg
+              className="filled-circle__Svg-sc-1gwuu5l-0 gHjgAd"
+              viewBox="0 0 3623 3623"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                className="filled-circle__StyledCircle-sc-1gwuu5l-1 gmdpkH"
+                color="#ffffff"
+                cx="1811.5"
+                cy="1811.5"
+                r="1811.5"
+              />
+            </svg>
+          </span>
+          <div
+            className="styled__StyledLabelText-sc-1ciio65-5 bZfrcs"
+          >
+            The Problem
+          </div>
+        </button>
+      </li>
+      <li
+        className="inactive styled__StyledLi-sc-1ciio65-2 NnLCi"
+      >
+        <button
+          className="styled__StyledLink-sc-1ciio65-3 cQmFQR"
+          data-tracking="btn-click:sideNav_theSolution"
+          id="the-solution-side-nav-button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="styled__StyledDot-sc-1ciio65-4 laqbya"
+          >
+            <svg
+              className="filled-circle__Svg-sc-1gwuu5l-0 gHjgAd"
+              viewBox="0 0 3623 3623"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                className="filled-circle__StyledCircle-sc-1gwuu5l-1 cOEXBT"
+                color="#00AD20"
+                cx="1811.5"
+                cy="1811.5"
+                r="1811.5"
+              />
+            </svg>
+          </span>
+          <div
+            className="styled__StyledLabelText-sc-1ciio65-5 hNViTw"
+          >
+            The Solution
+          </div>
+        </button>
+      </li>
+      <li
+        className="inactive styled__StyledLi-sc-1ciio65-2 NnLCi"
+      >
+        <button
+          className="styled__StyledLink-sc-1ciio65-3 cQmFQR"
+          data-tracking="btn-click:sideNav_ambitionExplorer"
+          id="ambition-explorer-side-nav-button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="styled__StyledDot-sc-1ciio65-4 laqbya"
+          >
+            <svg
+              className="filled-circle__Svg-sc-1gwuu5l-0 gHjgAd"
+              viewBox="0 0 3623 3623"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                className="filled-circle__StyledCircle-sc-1gwuu5l-1 cOEXBT"
+                color="#00AD20"
+                cx="1811.5"
+                cy="1811.5"
+                r="1811.5"
+              />
+            </svg>
+          </span>
+          <div
+            className="styled__StyledLabelText-sc-1ciio65-5 hNViTw"
+          >
+            Ambition Explorer
+          </div>
+        </button>
+      </li>
+      <li
+        className="inactive styled__StyledLi-sc-1ciio65-2 NnLCi"
+      >
+        <button
+          className="styled__StyledLink-sc-1ciio65-3 cQmFQR"
+          data-tracking="btn-click:sideNav_grantApplication"
+          id="grant-application-side-nav-button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="styled__StyledDot-sc-1ciio65-4 laqbya"
+          >
+            <svg
+              className="filled-circle__Svg-sc-1gwuu5l-0 gHjgAd"
+              viewBox="0 0 3623 3623"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                className="filled-circle__StyledCircle-sc-1gwuu5l-1 cOEXBT"
+                color="#00AD20"
+                cx="1811.5"
+                cy="1811.5"
+                r="1811.5"
+              />
+            </svg>
+          </span>
+          <div
+            className="styled__StyledLabelText-sc-1ciio65-5 hNViTw"
+          >
+            Grant Application
+          </div>
+        </button>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;

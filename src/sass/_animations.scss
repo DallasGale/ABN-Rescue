@@ -1,0 +1,20 @@
+@keyframes dropBelowPageAnimation {
+  0% {
+  }
+
+  10% {
+    margin-top: -10%;
+  }
+
+  15% {
+    margin-top: -10%;
+  }
+
+  100% {
+    margin-top: 200%
+  }
+}
+
+.circles-leave-page-animation {
+  animation: dropBelowPageAnimation 1.5s forwards ease-in-out !important;
+}
