@@ -1,4 +1,4 @@
-# cgu-abn-rescue
+# CGU - ABN Rescue
 
 ## Build tool
 
